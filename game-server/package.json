@@ -1,0 +1,10 @@
+{
+	"name": "BumperCar",
+	"version": "0.0.1",
+	"private": false,
+	"dependencies": {
+		"crc": "0.2.0",
+		"pomelo": "1.2.0",
+		"pomelo-cli": "^0.1.4"
+	}
+}
